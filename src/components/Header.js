@@ -30,10 +30,10 @@ function Header() {
         </div>
       </div>
       <h1>Tayná Silva Macêdo</h1>
-      <h2>Front-end developer</h2>
+      <h2>Estudante de desenvolvimento web</h2>
       <div className='social-media'>
-        <a href='#'>Linkedin</a>
-        <a href='#'>GitHub</a>
+        <a href='https://www.linkedin.com/in/tayna-macedo/' target="_blank" rel="noreferrer">Linkedin</a>
+        <a href='https://github.com/Tayna-Silva-Macedo' target="_blank" rel="noreferrer">GitHub</a>
       </div>
     </header>
   );
