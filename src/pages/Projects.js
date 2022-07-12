@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Main() {
+function Projects() {
   return (
     <main className='projects-container'>
       <div className='card-container'>
@@ -55,4 +55,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default Projects;
