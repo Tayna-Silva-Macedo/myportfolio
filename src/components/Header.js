@@ -37,6 +37,11 @@ function Header() {
                   </Link>
                 </li>
                 <li>
+                  <Link to='/skills' onClick={closeMenu}>
+                    Habilidades
+                  </Link>
+                </li>
+                <li>
                   <Link to='/projects' onClick={closeMenu}>
                     Projetos
                   </Link>
@@ -59,14 +64,20 @@ function Header() {
           target='_blank'
           rel='noreferrer'
         >
-          Linkedin
+          <img
+            src='https://img.icons8.com/glyph-neue/64/000000/github.png'
+            alt='logo do github'
+          />
         </a>
         <a
           href='https://github.com/Tayna-Silva-Macedo'
           target='_blank'
           rel='noreferrer'
         >
-          GitHub
+          <img
+            src='https://img.icons8.com/glyph-neue/64/000000/linkedin-circled.png'
+            alt='logo do linkedin'
+          />
         </a>
       </div>
     </header>
