@@ -60,7 +60,7 @@ function Header() {
       <h2>Estudante de desenvolvimento web</h2>
       <div className='social-media'>
         <a
-          href='https://www.linkedin.com/in/tayna-macedo/'
+          href='https://github.com/Tayna-Silva-Macedo'
           target='_blank'
           rel='noreferrer'
         >
@@ -70,7 +70,7 @@ function Header() {
           />
         </a>
         <a
-          href='https://github.com/Tayna-Silva-Macedo'
+          href='https://www.linkedin.com/in/tayna-macedo/'
           target='_blank'
           rel='noreferrer'
         >
