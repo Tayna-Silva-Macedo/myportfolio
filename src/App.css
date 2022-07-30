@@ -238,6 +238,13 @@ a:hover {
   background-repeat: no-repeat;
 }
 
+.recipes-app {
+  background-image: url(./images/app-de-receitas.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .card-text {
   width: 40%;
   letter-spacing: 1px;

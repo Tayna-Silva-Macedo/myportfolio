@@ -114,6 +114,34 @@ function Projects() {
           </div>
         </div>
       </div>
+      <div className='card-container'>
+        <div className='card recipes-app'>
+          <div className='card-wrapper'>
+            <h2>App de receitas</h2>
+          </div>
+        </div>
+        <div className='card-text'>
+          O App de receitas é uma aplicação que usa duas APIs distintas como
+          base de dados para disponibilizar diversas receitas de comidas e
+          bebidas para o usuário.
+          <div className='links-container'>
+            <a
+              href='https://tayna-silva-macedo.github.io/project-recipes-app/#/'
+              target='_blank'
+              rel='noreferrer'
+            >
+              Aplicação
+            </a>
+            <a
+              href='https://github.com/Tayna-Silva-Macedo/project-recipes-app'
+              target='_blank'
+              rel='noreferrer'
+            >
+              Repositório
+            </a>
+          </div>
+        </div>
+      </div>
     </main>
   );
 }
