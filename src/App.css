@@ -309,15 +309,27 @@ a:hover {
 
 .hard-skills-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
-  width: 90%;
-  margin: 3rem auto;
+  width: 100%;
 }
 
 .hard-skills-container img {
   height: 100px;
   width: 100px;
+}
+
+.hard-skills-container h4 {
+  text-align: center;
+}
+
+.front-end-skills-container, .back-end-skills-container, .testes-skills-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  flex-wrap: wrap;
 }
 
 .home-container {
